@@ -1,0 +1,685 @@
+conflict_id,region,side_a,side_b,year,start_month,duration,intensity_level,conflict_issue,sides,location
+11342,Asia,Government of India,GNLA,2012,Nov,36,1,1,a,India
+11342,Asia,Government of India,GNLA,2014,Jul,149,1,1,a,India
+11343,Middle East,Government of Egypt,Government of Israel,1967,Jun,5,2,1,a,Egypt
+11343,Middle East,Government of Egypt,Government of Israel,1967,Jun,5,2,1,b,Israel
+11343,Middle East,Government of Egypt,Government of Israel,1970,Mar,519,1,1,a,Egypt
+11343,Middle East,Government of Egypt,Government of Israel,1970,Mar,519,1,1,b,Israel
+11343,Middle East,Government of Egypt,Government of Israel,1973,Oct,18,2,1,a,Egypt
+11343,Middle East,Government of Egypt,Government of Israel,1973,Oct,18,2,1,b,Israel
+11344,Africa,Government of Sudan,Republic of South Sudan,2011,May,27,1,1,a,Sudan
+11345,Africa,Government of South Sudan,"NAS, SPLM/A - IO - Kitgwang",2021,Aug,3782,1,2,a,South Sudan
+11346,Africa,Government of Libya,"Forces of Muammar Gaddafi, NTC",2011,Mar,264,2,2,a,Libya
+11346,Africa,Government of Libya,Forces of the House of Representatives,2015,Nov,506,1,2,a,Libya
+11346,Africa,Government of Libya,"Forces of Khalifa al-Ghawil, Forces of the House of Representatives, PFLL",2017,May,178,1,2,a,Libya
+11346,Africa,Government of Libya,Forces of the House of Representatives,2020,Feb,618,1,2,a,Libya
+11347,Africa,Government of Mali,AQIM,2009,Jun,30,1,2,a,Mali
+11347,Africa,Government of Mali,JNIM,2022,Jan,3994,2,2,a,Mali
+11348,Africa,Government of South Sudan,Government of Sudan,2012,Mar,274,1,1,a,South Sudan
+11348,Africa,Government of South Sudan,Government of Sudan,2012,Mar,274,1,1,b,Sudan
+11349,Asia,Government of China,ETIM,2008,Aug,19,1,1,a,China
+11350,Asia,Government of Bangladesh,PBCP-J,2006,Feb,682,1,2,a,Bangladesh
+11447,Africa,Government of Ethiopia,IGLF,1991,Oct,0,1,1,a,Ethiopia
+11475,Asia,Government of Myanmar (Burma),NSCN-K,1991,Dec,0,1,1,a,Myanmar
+11475,Asia,Government of Myanmar (Burma),NSCN-K,1995,Apr,16,1,1,a,Myanmar
+11475,Asia,Government of Myanmar (Burma),NSCN-K,2001,Feb,445,1,1,a,Myanmar
+11475,Asia,Government of Myanmar (Burma),NSCN-K,2007,Jan,745,1,1,a,Myanmar
+11487,Asia,Government of Malaysia,Sultanate of Sulu,2013,Mar,53,1,1,a,Malaysia
+11884,Asia,Government of Hyderabad,CPI,1948,Jun,446,2,2,a,Hyderabad
+13042,Middle East,Government of Syria,PYD,2015,Sep,1051,1,1,a,Syria
+13219,Europe,Government of Ukraine,Maidan,2014,Feb,3,1,2,a,Ukraine
+13243,Europe,Government of Russia (Soviet Union),Government of Ukraine,2022,Feb,310,2,3,a,Russia
+13243,Europe,Government of Russia (Soviet Union),Government of Ukraine,2022,Feb,310,2,3,b,Ukraine
+13246,Europe,Government of Ukraine,DPR,2014,May,136,2,1,a,Ukraine
+13247,Europe,Government of Ukraine,LPR,2014,Jun,95,2,1,a,Ukraine
+13306,Europe,Government of Ukraine,DPR,2022,Sep,3026,1,1,a,Ukraine
+13324,Asia,Government of Kyrgyzstan,Government of Tajikistan,2022,May,609,1,1,a,Kyrgyzstan
+13324,Asia,Government of Kyrgyzstan,Government of Tajikistan,2022,May,609,1,1,b,Tajikistan
+13588,Europe,Government of Russia (Soviet Union),IS,2020,Aug,1976,1,1,a,Russia
+13604,Middle East,Government of Syria,IS,2022,Jul,3446,1,1,a,Syria
+13611,Africa,Government of Mali,FLM,2015,Jun,123,1,1,a,Mali
+13637,Asia,Government of Afghanistan,IS,2022,Mar,2860,1,1,a,Afghanistan
+13638,Africa,Government of Cameroon,IS,2016,Aug,422,1,1,a,Cameroon
+13638,Africa,Government of Cameroon,IS,2019,Apr,143,1,1,a,Cameroon
+13638,Africa,Government of Cameroon,IS,2021,Jul,142,1,1,a,Cameroon
+13639,Africa,Government of Niger,IS,2022,Mar,2833,1,1,a,Niger
+13640,Africa,Government of Chad,IS,2015,May,158,1,1,a,Chad
+13640,Africa,Government of Chad,IS,2022,May,2066,1,1,a,Chad
+13641,Africa,Government of Nigeria,IS,2022,Mar,2841,2,1,a,Nigeria
+13645,Middle East,Government of Yemen (North Yemen),IS,2015,Mar,200,1,1,a,Yemen
+13645,Middle East,Government of Yemen (North Yemen),IS,2017,May,0,1,1,a,Yemen
+13645,Middle East,Government of Yemen (North Yemen),IS,2020,Aug,29,1,1,a,Yemen
+13646,Africa,Government of Kenya,Al-Shabaab,2022,Jul,2728,1,1,a,Kenya
+13648,Middle East,Government of Egypt,IS,2022,Jan,2893,1,1,a,Egypt
+13653,Asia,Government of India,UNLFW,2018,Jun,1278,1,1,a,India
+13674,Asia,Government of Bangladesh,IS,2017,Aug,373,1,1,a,Bangladesh
+13675,Middle East,Government of Lebanon,IS,2015,Aug,499,1,1,a,Lebanon
+13675,Middle East,Government of Lebanon,IS,2017,Aug,8,1,1,a,Lebanon
+13692,Multiple,Government of Afghanistan,"Government of United Kingdom, Government of United States of America",2001,Oct,37,2,2,a,Afghanistan
+13692,Multiple,Government of Afghanistan,"Government of United Kingdom, Government of United States of America",2001,Oct,37,2,2,b,United Kingdom
+13692,Multiple,Government of Afghanistan,"Government of United Kingdom, Government of United States of America",2001,Oct,37,2,2,c,United States of America
+13694,Africa,Government of Libya,IS,2019,Mar,1656,1,1,a,Libya
+13721,Africa,Government of Algeria,IS,2015,May,0,1,1,a,Algeria
+13809,Middle East,Government of Syria,SDF,2016,Apr,219,1,3,a,Syria
+13809,Middle East,Government of Syria,SDF,2018,Sep,106,1,3,a,Syria
+13840,Africa,Government of Burkina Faso,IS,2022,Aug,1230,1,1,a,Burkina Faso
+13886,Middle East,Government of Jordan,IS,2016,Dec,11,1,1,a,Jordan
+13902,Middle East,Government of Turkey,IS,2017,Nov,662,1,1,a,Turkey
+13936,Asia,Government of Pakistan,IS,2019,Oct,1099,1,1,a,Pakistan
+13936,Asia,Government of Pakistan,IS,2022,Dec,376,1,1,a,Pakistan
+14074,Africa,Government of Somalia,Republic of Somaliland,2018,May,174,1,1,a,Somalia
+14113,Africa,Government of Mali,IS,2022,Jul,2001,1,1,a,Mali
+14129,Africa,Government of Cameroon,Ambazonia insurgents,2022,Dec,1849,1,1,a,Cameroon
+14197,Africa,Government of Somalia,IS,2021,Jun,929,1,1,a,Somalia
+14268,Middle East,Government of Iran,IS,2017,Jun,0,1,1,a,Iran
+14275,Asia,Government of Philippines,IS,2022,Jun,2404,1,1,a,Philippines
+14333,Africa,Government of Tunisia,IS,2016,Mar,14,1,1,a,Tunisia
+14609,Middle East,Government of Iran,Government of Israel,2022,Apr,1707,1,2,a,Iran
+14609,Middle East,Government of Iran,Government of Israel,2022,Apr,1707,1,2,b,Israel
+14692,Africa,Government of DR Congo (Zaire),IS,2022,Nov,1151,1,1,a,DR Congo
+14845,Africa,Government of Mozambique,IS,2022,Aug,1242,1,1,a,Mozambique
+14935,Africa,Government of Ethiopia,Military faction (forces of Asaminew Tsige),2019,Jun,2,1,1,a,Ethiopia
+15183,Africa,Government of Tanzania,IS,2020,Oct,0,1,1,a,Tanzania
+15256,Africa,Government of Benin,JNIM,2022,Oct,80,1,2,a,Benin
+15283,Africa,Government of Central African Republic,FPRC,2015,Oct,0,1,1,a,Central African Republic
+15438,Africa,Government of Uganda,IS,2022,Dec,10,1,1,a,Uganda
+200,Americas,Government of Bolivia,Popular Revolutionary Movement,1946,Jul,0,2,2,a,Bolivia
+200,Americas,Government of Bolivia,MNR,1949,Sep,0,1,2,a,Bolivia
+200,Americas,Government of Bolivia,MNR,1952,Apr,3,1,2,a,Bolivia
+200,Americas,Government of Bolivia,ELN,1967,Mar,199,1,2,a,Bolivia
+201,Asia,Government of France,Khmer Issarak,1953,Aug,2627,1,1,a,Cambodia
+202,Asia,Government of China,PLA,1949,Dec,1073,2,2,a,China
+203,Europe,Government of Greece,DSE,1949,Mar,1295,2,2,a,Greece
+204,Asia,Government of Netherlands,Indonesian People's Army,1949,Dec,958,1,1,a,Indonesia
+205,Middle East,Government of Iran,KDPI,1946,May,199,1,1,a,Iran
+205,Middle East,Government of Iran,KDPI,1968,Dec,731,1,1,a,Iran
+205,Middle East,Government of Iran,KDPI,1988,Dec,3288,1,1,a,Iran
+205,Middle East,Government of Iran,KDPI,1990,Jul,38,1,1,a,Iran
+205,Middle East,Government of Iran,KDPI,1993,Sep,60,1,1,a,Iran
+205,Middle East,Government of Iran,KDPI,1996,Jul,0,1,1,a,Iran
+205,Middle East,Government of Iran,KDPI,2016,Sep,104,1,1,a,Iran
+205,Middle East,Government of Iran,KDPI,2018,Aug,62,1,1,a,Iran
+206,Middle East,Government of Iran,Republic of Azerbaijan,1946,Dec,0,1,1,a,Iran
+207,Middle East,Government of United Kingdom,IZL [Etzel],1946,Dec,0,1,1,a,Israel
+208,Asia,Government of France,Lao Issara,1953,Mar,2832,1,1,a,Laos
+209,Asia,Government of Philippines,Huk,1954,Jul,3075,2,2,a,Philippines
+209,Asia,Government of Philippines,CPP,1995,Sep,9556,1,2,a,Philippines
+209,Asia,Government of Philippines,CPP,1997,Nov,37,1,2,a,Philippines
+209,Asia,Government of Philippines,CPP,2022,Jun,8609,1,2,a,Philippines
+210,Europe,Government of Russia (Soviet Union),Forest Brothers,1948,Dec,731,1,1,a,Russia
+211,Europe,Government of Russia (Soviet Union),"LNPA, LTS(p)A",1946,Dec,0,1,1,a,Russia
+212,Europe,Government of Russia (Soviet Union),BDPS,1948,Jun,915,1,1,a,Russia
+213,Europe,Government of Russia (Soviet Union),UPA,1950,Dec,1461,1,1,a,Russia
+214,Multiple,Government of France,Government of Thailand,1946,May,194,1,1,a,France
+214,Multiple,Government of France,Government of Thailand,1946,May,194,1,1,b,Thailand
+215,Europe,Government of Albania,Government of United Kingdom,1946,Oct,70,1,1,a,Albania
+215,Europe,Government of Albania,Government of United Kingdom,1946,Oct,70,1,1,b,United Kingdom
+216,Asia,Government of France,Viet minh,1954,Nov,2799,2,1,a,Vietnam
+217,Asia,Government of China,Taiwanese insurgents,1947,Feb,24,2,1,a,China
+218,Asia,Government of India,Government of Pakistan,1948,Dec,0,2,1,a,India
+218,Asia,Government of India,Government of Pakistan,1948,Dec,0,2,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,1965,Dec,349,2,1,a,India
+218,Asia,Government of India,Government of Pakistan,1965,Dec,349,2,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,1971,Dec,14,2,1,a,India
+218,Asia,Government of India,Government of Pakistan,1971,Dec,14,2,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,1984,Dec,0,1,1,a,India
+218,Asia,Government of India,Government of Pakistan,1984,Dec,0,1,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,1987,Dec,0,1,1,a,India
+218,Asia,Government of India,Government of Pakistan,1987,Dec,0,1,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,1992,Dec,1096,1,1,a,India
+218,Asia,Government of India,Government of Pakistan,1992,Dec,1096,1,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,1994,Jun,153,1,1,a,India
+218,Asia,Government of India,Government of Pakistan,1994,Jun,153,1,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,2003,Dec,2517,1,1,a,India
+218,Asia,Government of India,Government of Pakistan,2003,Dec,2517,1,1,b,Pakistan
+218,Asia,Government of India,Government of Pakistan,2020,Oct,2644,1,1,a,India
+218,Asia,Government of India,Government of Pakistan,2020,Oct,2644,1,1,b,Pakistan
+219,Africa,Government of France,MDRM,1947,Mar,277,2,1,a,Madagascar
+220,Americas,Government of Paraguay,"Opposition coalition (Febreristas, Liberals and Communists)",1947,Mar,143,2,2,a,Paraguay
+220,Americas,Government of Paraguay,Military faction (forces of Alfredo Stroessner),1954,May,0,1,2,a,Paraguay
+220,Americas,Government of Paraguay,Military faction (forces of Andres Rodriguez),1989,Feb,0,1,2,a,Paraguay
+221,Asia,Government of Myanmar (Burma),KNU,1992,Jan,16017,2,1,a,Myanmar
+221,Asia,Government of Myanmar (Burma),KNU,1995,Dec,194,1,1,a,Myanmar
+221,Asia,Government of Myanmar (Burma),KNU,1998,Feb,506,1,1,a,Myanmar
+221,Asia,Government of Myanmar (Burma),"DKBA 5, KNU",2011,Mar,4320,1,1,a,Myanmar
+221,Asia,Government of Myanmar (Burma),DKBA 5,2013,Apr,0,1,1,a,Myanmar
+221,Asia,Government of Myanmar (Burma),KNU,2022,Apr,613,1,1,a,Myanmar
+222,Asia,Government of Myanmar (Burma),CPB,1988,Feb,14916,2,2,a,Myanmar
+222,Asia,Government of Myanmar (Burma),ABSDF,1992,Dec,731,1,2,a,Myanmar
+222,Asia,Government of Myanmar (Burma),ABSDF,1994,Dec,0,1,2,a,Myanmar
+222,Asia,Government of Myanmar (Burma),PSLF,2015,Nov,728,1,2,a,Myanmar
+222,Asia,Government of Myanmar (Burma),PSLF,2019,Apr,965,1,2,a,Myanmar
+222,Asia,Government of Myanmar (Burma),"NUG, PSLF",2022,May,607,2,2,a,Myanmar
+223,Asia,Government of Myanmar (Burma),Mujahid Party,1961,Jan,5037,1,1,a,Myanmar
+223,Asia,Government of Myanmar (Burma),RPF,1978,Dec,5113,1,1,a,Myanmar
+223,Asia,Government of Myanmar (Burma),RSO,1991,Dec,0,1,1,a,Myanmar
+223,Asia,Government of Myanmar (Burma),RSO,1994,May,39,1,1,a,Myanmar
+223,Asia,Government of Myanmar (Burma),ULA,2020,Oct,1506,1,1,a,Myanmar
+223,Asia,Government of Myanmar (Burma),ULA,2022,Aug,128,1,1,a,Myanmar
+224,Asia,Government of Myanmar (Burma),NMSP,1963,Feb,5419,1,1,a,Myanmar
+224,Asia,Government of Myanmar (Burma),NMSP,1990,Feb,37,1,1,a,Myanmar
+224,Asia,Government of Myanmar (Burma),BMA,1996,Dec,0,1,1,a,Myanmar
+225,Americas,Government of Costa Rica,National Liberation Army,1948,Mar,48,2,2,a,Costa Rica
+226,Asia,Government of Hyderabad,Government of India,1948,Sep,5,2,1,a,Hyderabad
+226,Asia,Government of Hyderabad,Government of India,1948,Sep,5,2,1,b,India
+227,Asia,Government of India,CPI,1951,Sep,1199,2,2,a,India
+227,Asia,Government of India,CPI-ML,1971,Dec,730,1,2,a,India
+227,Asia,Government of India,PWG,1994,Jul,1235,1,2,a,India
+227,Asia,Government of India,CPI-Maoist,2022,Apr,9768,1,2,a,India
+228,Middle East,"Government of Egypt, Government of Iraq, Government of Jordan, Government of Lebanon, Government of Syria",Government of Israel,1949,Apr,267,1,1,a,Egypt
+228,Middle East,"Government of Egypt, Government of Iraq, Government of Jordan, Government of Lebanon, Government of Syria",Government of Israel,1949,Apr,267,1,1,b,Iraq
+228,Middle East,"Government of Egypt, Government of Iraq, Government of Jordan, Government of Lebanon, Government of Syria",Government of Israel,1949,Apr,267,1,1,c,Israel
+228,Middle East,"Government of Egypt, Government of Iraq, Government of Jordan, Government of Lebanon, Government of Syria",Government of Israel,1949,Apr,267,1,1,d,Jordan
+228,Middle East,"Government of Egypt, Government of Iraq, Government of Jordan, Government of Lebanon, Government of Syria",Government of Israel,1949,Apr,267,1,1,e,Lebanon
+228,Middle East,"Government of Egypt, Government of Iraq, Government of Jordan, Government of Lebanon, Government of Syria",Government of Israel,1949,Apr,267,1,1,f,Syria
+229,Asia,Government of United Kingdom,CPM,1957,Jun,3360,1,1,a,Malaysia
+230,Middle East,Government of Yemen (North Yemen),Opposition coalition,1948,Mar,0,2,2,a,Yemen
+230,Middle East,Government of Yemen (North Yemen),Royalists,1970,Oct,2761,1,2,a,Yemen
+230,Middle East,Government of Yemen (North Yemen),NDF,1982,Mar,1157,1,2,a,Yemen
+230,Middle East,Government of Yemen (North Yemen),Forces of the Presidential Leadership Council,2022,Dec,4762,2,2,a,Yemen
+231,Asia,Government of Myanmar (Burma),PNDF,1950,Dec,125,1,1,a,Myanmar
+231,Asia,Government of Myanmar (Burma),KIO,1992,Feb,11629,1,1,a,Myanmar
+231,Asia,Government of Myanmar (Burma),KIO,2019,Jun,3077,1,1,a,Myanmar
+231,Asia,Government of Myanmar (Burma),KIO,2022,Apr,630,1,1,a,Myanmar
+232,Asia,Government of China,Government of Taiwan,1950,Oct,426,1,3,a,China
+232,Asia,Government of China,Government of Taiwan,1950,Oct,426,1,3,b,Taiwan
+232,Asia,Government of China,Government of Taiwan,1954,Dec,0,2,3,a,China
+232,Asia,Government of China,Government of Taiwan,1954,Dec,0,2,3,b,Taiwan
+232,Asia,Government of China,Government of Taiwan,1958,Dec,0,2,3,a,China
+232,Asia,Government of China,Government of Taiwan,1958,Dec,0,2,3,b,Taiwan
+233,Americas,Government of Guatemala,Military faction (Guatemala),1949,Jul,1,1,2,a,Guatemala
+233,Americas,Government of Guatemala,Forces of Carlos Castillo Armas,1954,Jun,9,1,2,a,Guatemala
+233,Americas,Government of Guatemala,FAR I,1963,Jul,153,1,2,a,Guatemala
+233,Americas,Government of Guatemala,URNG,1995,Dec,10957,1,2,a,Guatemala
+234,Middle East,Government of Israel,PNA,1996,Dec,17075,1,1,a,Israel
+234,Middle East,Government of Israel,"Hamas, PIJ",2012,Oct,4436,1,1,a,Israel
+234,Middle East,Government of Israel,"Hamas, PIJ",2014,Jul,170,2,1,a,Israel
+234,Middle East,Government of Israel,PIJ,2019,Apr,581,1,1,a,Israel
+234,Middle East,Government of Israel,"Fatah, PIJ",2022,May,600,1,1,a,Israel
+235,Asia,Government of North Korea,Government of South Korea,1953,May,1518,2,1,a,North Korea
+235,Asia,Government of North Korea,Government of South Korea,1953,May,1518,2,1,b,South Korea
+236,Asia,Government of China,Tibet,1950,Oct,2,1,1,a,China
+236,Asia,Government of China,Tibet,1956,May,214,2,1,a,China
+236,Asia,Government of China,Tibet,1959,Mar,44,2,1,a,China
+237,Asia,Government of Indonesia,Republic of South Moluccas,1950,Aug,102,2,1,a,Indonesia
+238,Americas,Government of United States of America,Puerto Rican Nationalist Party,1950,Oct,2,1,1,a,United States of America
+239,Multiple,Government of Egypt,Government of United Kingdom,1952,Oct,440,1,1,a,Egypt
+239,Multiple,Government of Egypt,Government of United Kingdom,1952,Oct,440,1,1,b,United Kingdom
+240,Asia,Government of Thailand,Military faction (navy),1951,Jun,1,1,2,a,Thailand
+240,Asia,Government of Thailand,CPT,1982,Oct,2983,1,2,a,Thailand
+241,Africa,Government of United Kingdom,Mau Mau,1956,Oct,1531,2,1,a,Kenya
+242,Americas,Government of Cuba,M-26-7,1953,Jul,1,1,2,a,Cuba
+242,Americas,Government of Cuba,M-26-7,1958,Dec,756,2,2,a,Cuba
+242,Americas,Government of Cuba,Cuban Revolutionary Council,1961,Apr,3,1,2,a,Cuba
+243,Asia,Government of Indonesia,Darul Islam,1953,Dec,0,2,2,a,Indonesia
+243,Asia,Government of Indonesia,"Darul Islam, Permesta Movement, PRRI",1961,Apr,1354,2,2,a,Indonesia
+244,Africa,Government of France,Istiqlal,1956,Nov,846,1,1,a,Morocco
+245,Africa,Government of France,National Liberation Army,1956,Apr,1055,1,1,a,Tunisia
+246,Africa,Government of France,FLN,1962,Nov,2667,1,1,a,Algeria
+247,Americas,Government of Argentina,"Military faction (forces of Eduardo A. Lonardi Doucet), Military faction (forces of Samuel Toranzo Calderón)",1955,Jun,95,1,2,a,Argentina
+247,Americas,Government of Argentina,Military faction (colorados),1963,Apr,173,1,2,a,Argentina
+247,Americas,Government of Argentina,"ERP, Montoneros",1977,Aug,1238,1,2,a,Argentina
+248,Europe,Government of United Kingdom,EOKA,1959,Jun,1358,1,1,a,Cyprus
+249,Asia,Government of South Vietnam,FNL,1964,Apr,3533,2,1,a,Vietnam
+250,Europe,Government of Hungary,Government of Russia (Soviet Union),1956,Oct,22,2,2,a,Hungary
+250,Europe,Government of Hungary,Government of Russia (Soviet Union),1956,Oct,22,2,2,b,Russia
+251,Asia,Government of India,NNC,1959,Dec,1095,1,1,a,India
+251,Asia,Government of India,NNC,1968,Dec,2358,1,1,a,India
+251,Asia,Government of India,NSCN-IM,1997,Aug,1812,1,1,a,India
+251,Asia,Government of India,NSCN-IM,2000,Sep,0,1,1,a,India
+252,Multiple,Government of Egypt,"Government of France, Government of Israel, Government of United Kingdom",1956,Oct,6,2,1,a,Egypt
+252,Multiple,Government of Egypt,"Government of France, Government of Israel, Government of United Kingdom",1956,Oct,6,2,1,b,France
+252,Multiple,Government of Egypt,"Government of France, Government of Israel, Government of United Kingdom",1956,Oct,6,2,1,c,Israel
+252,Multiple,Government of Egypt,"Government of France, Government of Israel, Government of United Kingdom",1956,Oct,6,2,1,d,United Kingdom
+253,Asia,Government of Myanmar (Burma),KNPP,1957,Dec,0,1,1,a,Myanmar
+253,Asia,Government of Myanmar (Burma),KNPP,1987,Dec,0,1,1,a,Myanmar
+253,Asia,Government of Myanmar (Burma),KNPP,1992,Sep,45,1,1,a,Myanmar
+253,Asia,Government of Myanmar (Burma),KNPP,1996,Mar,214,1,1,a,Myanmar
+253,Asia,Government of Myanmar (Burma),KNPP,2005,Jan,9,1,1,a,Myanmar
+253,Asia,Government of Myanmar (Burma),KNPP,2022,Nov,422,1,1,a,Myanmar
+254,Africa,Government of France,UPC,1959,Sep,822,1,1,a,Cameroon
+255,Americas,Government of Honduras,Government of Nicaragua,1957,May,6,1,1,a,Honduras
+255,Americas,Government of Honduras,Government of Nicaragua,1957,May,6,1,1,b,Nicaragua
+256,Africa,Government of France,NLA,1958,Jan,534,1,1,a,Mauritania
+256,Africa,Government of France,NLA,1958,Jan,534,1,1,b,Morocco
+257,Africa,Government of Spain,NLA,1958,Nov,219,1,1,a,Mauritania
+257,Africa,Government of Spain,NLA,1958,Nov,219,1,1,b,Morocco
+258,Middle East,Government of Oman,State of Oman/Free Oman,1957,Jul,26,1,1,a,Oman
+259,Middle East,Government of Iraq,Military faction (forces of Abdul Wahab al-Shawaf),1959,Jul,239,1,2,a,Iraq
+259,Middle East,Government of Iraq,"Military faction (forces of Abd as-Salam Arif), NCRC",1963,Feb,285,2,2,a,Iraq
+259,Middle East,Government of Iraq,SCIRI,1984,Aug,883,1,2,a,Iraq
+259,Middle East,Government of Iraq,SCIRI,1987,Dec,0,1,2,a,Iraq
+259,Middle East,Government of Iraq,SCIRI,1996,Apr,2011,1,2,a,Iraq
+259,Middle East,Government of Iraq,IS,2022,Jan,6922,1,2,a,Iraq
+260,Middle East,Government of Lebanon,Independent Nasserite Movement,1958,May,77,2,2,a,Lebanon
+260,Middle East,Government of Lebanon,"LAA, NSF",1976,Sep,408,2,2,a,Lebanon
+260,Middle East,Government of Lebanon,"Lebanese Forces - Hobeika faction, NUF",1986,Sep,1582,1,2,a,Lebanon
+260,Middle East,Government of Lebanon,Forces of Michel Aoun,1990,Mar,578,1,2,a,Lebanon
+261,Asia,Government of Malaysia,CPM,1960,Dec,578,1,2,a,Malaysia
+261,Asia,Government of Malaysia,CPM,1975,Jan,715,1,2,a,Malaysia
+261,Asia,Government of Malaysia,CPM,1981,Dec,0,1,2,a,Malaysia
+262,Asia,Government of Laos,Pathet Lao,1961,Nov,531,2,2,a,Laos
+262,Asia,Government of Laos,Pathet Lao,1973,Dec,3545,2,2,a,Laos
+262,Asia,Government of Laos,LRM,1990,Aug,228,1,2,a,Laos
+263,Africa,Government of Portugal,"FNLA, MPLA",1974,Feb,5007,1,1,a,Angola
+264,Asia,Government of Myanmar (Burma),"SSA, SSNLO, SURA",1970,Nov,4057,2,1,a,Myanmar
+264,Asia,Government of Myanmar (Burma),SSA,1973,Dec,365,1,1,a,Myanmar
+264,Asia,Government of Myanmar (Burma),MTA,1988,Aug,4505,1,1,a,Myanmar
+264,Asia,Government of Myanmar (Burma),RCSS,2002,Jul,3357,1,1,a,Myanmar
+264,Asia,Government of Myanmar (Burma),"RCSS, SSPP",2011,Dec,2084,1,1,a,Myanmar
+264,Asia,Government of Myanmar (Burma),"RCSS, SSPP",2013,Feb,230,1,1,a,Myanmar
+264,Asia,Government of Myanmar (Burma),SSPP,2015,Oct,43,1,1,a,Myanmar
+265,Africa,Government of DR Congo (Zaire),State of Katanga,1962,Nov,411,1,1,a,DR Congo
+265,Africa,Government of DR Congo (Zaire),Kata Katanga,2014,Mar,597,1,1,a,DR Congo
+265,Africa,Government of DR Congo (Zaire),Kata Katanga,2020,Mar,182,1,1,a,DR Congo
+266,Africa,Government of DR Congo (Zaire),Independent Mining State of South Kasai,1962,Aug,852,1,1,a,DR Congo
+267,Africa,Government of Ethiopia,Military faction (forces of Mengistu Neway),1960,Dec,0,1,2,a,Ethiopia
+267,Africa,Government of Ethiopia,"EPRDF, Forces of Harar garrison",1991,Jun,5473,2,2,a,Ethiopia
+267,Africa,Government of Ethiopia,"GLF, TPLF",2022,Nov,787,2,2,a,Ethiopia
+268,Africa,Government of Ethiopia,Government of Somalia,1964,Feb,46,1,1,a,Ethiopia
+268,Africa,Government of Ethiopia,Government of Somalia,1964,Feb,46,1,1,b,Somalia
+268,Africa,Government of Ethiopia,Government of Somalia,1978,Jul,253,2,1,a,Ethiopia
+268,Africa,Government of Ethiopia,Government of Somalia,1978,Jul,253,2,1,b,Somalia
+268,Africa,Government of Ethiopia,Government of Somalia,1980,May,186,1,1,a,Ethiopia
+268,Africa,Government of Ethiopia,Government of Somalia,1980,May,186,1,1,b,Somalia
+269,Asia,Government of Nepal,NC,1962,Feb,1036,1,2,a,Nepal
+269,Asia,Government of Nepal,CPN-M,2006,Aug,3681,1,2,a,Nepal
+270,Europe,Government of France,OAS,1962,Apr,434,2,2,a,France
+271,Middle East,Government of Iraq,KDP,1970,Dec,2992,1,1,a,Iraq
+271,Middle East,Government of Iraq,PUK,1992,Jul,6800,1,1,a,Iraq
+271,Middle East,Government of Iraq,PUK,1996,Mar,566,1,1,a,Iraq
+272,Multiple,Government of France,Government of Tunisia,1961,Jul,2,2,1,a,France
+272,Multiple,Government of France,Government of Tunisia,1961,Jul,2,2,1,b,Tunisia
+273,Asia,Government of United Kingdom,North Kalimantan Liberation Army,1962,Dec,23,1,1,a,Brunei
+274,Asia,Government of China,Government of India,1962,Nov,0,2,1,a,China
+274,Asia,Government of China,Government of India,1962,Nov,0,2,1,b,India
+274,Asia,Government of China,Government of India,1967,Jan,334,1,1,a,China
+274,Asia,Government of China,Government of India,1967,Jan,334,1,1,b,India
+274,Asia,Government of China,Government of India,2020,Aug,0,1,1,a,China
+274,Asia,Government of China,Government of India,2020,Aug,0,1,1,b,India
+275,Africa,Government of Ethiopia,EPLF,1991,Mar,9938,2,1,a,Ethiopia
+276,Multiple,Government of Indonesia,Government of Netherlands,1962,Jan,249,1,1,a,Indonesia
+276,Multiple,Government of Indonesia,Government of Netherlands,1962,Jan,249,1,1,b,Netherlands
+277,Americas,Government of Venezuela,Military faction (navy),1962,Jun,211,1,2,a,Venezuela
+277,Americas,Government of Venezuela,Bandera Roja,1982,Apr,157,1,2,a,Venezuela
+277,Americas,Government of Venezuela,Military faction (forces of Hugo Chávez),1992,Feb,297,1,2,a,Venezuela
+278,Africa,Government of Algeria,Government of Morocco,1963,Oct,27,1,1,a,Algeria
+278,Africa,Government of Algeria,Government of Morocco,1963,Oct,27,1,1,b,Morocco
+279,Africa,Government of Portugal,PAIGC,1973,Feb,3959,1,1,a,Guinea-Bissau
+280,Asia,Government of Malaysia,CCO,1966,Dec,1096,1,1,a,Malaysia
+281,Asia,Government of Indonesia,Government of Malaysia,1966,Dec,954,1,1,a,Indonesia
+281,Asia,Government of Indonesia,Government of Malaysia,1966,Dec,954,1,1,b,Malaysia
+282,Africa,Government of Sudan,SSLM,1972,Dec,2953,2,1,a,Sudan
+283,Africa,Government of DR Congo (Zaire),CNL,1965,Jan,700,2,2,a,DR Congo
+283,Africa,Government of DR Congo (Zaire),Military Faction (Forces of Jean Schramme),1967,Jul,123,1,2,a,DR Congo
+283,Africa,Government of DR Congo (Zaire),FLNC,1978,Apr,411,1,2,a,DR Congo
+283,Africa,Government of DR Congo (Zaire),RCD,2001,Oct,1806,1,2,a,DR Congo
+283,Africa,Government of DR Congo (Zaire),CNDP,2008,Nov,1093,1,2,a,DR Congo
+283,Africa,Government of DR Congo (Zaire),"APCLS, CNPSC",2014,Oct,936,1,2,a,DR Congo
+283,Africa,Government of DR Congo (Zaire),"CNPSC, M23, Mayi Mayi Biloze Bishambuke, Mayi Mayi Kyandenga, RNL",2022,Aug,2336,1,2,a,DR Congo
+284,Africa,Government of Gabon,Military faction (forces loyal to Léon M'Ba),1964,Feb,1,1,2,a,Gabon
+285,Africa,Government of Portugal,Frelimo,1974,Nov,3579,1,1,a,Mozambique
+286,Middle East,Government of United Kingdom,FLOSY,1967,Nov,1099,1,1,a,Yemen
+287,Africa,Government of Burundi,Military faction (forces loyal to Gervais Nyangoma),1965,Oct,0,1,2,a,Burundi
+287,Africa,Government of Burundi,Palipehutu,1992,Nov,139,1,2,a,Burundi
+287,Africa,Government of Burundi,Palipehutu-FNL,2006,Oct,4361,1,2,a,Burundi
+287,Africa,Government of Burundi,Palipehutu-FNL,2008,Mar,174,1,2,a,Burundi
+287,Africa,Government of Burundi,"FPB, Military faction (forces of Godefroid Niyombare), RED-TABARA",2015,Dec,346,1,2,a,Burundi
+287,Africa,Government of Burundi,"FNL-Ubugabo-Burihabwa, RED-TABARA",2022,Jan,1441,1,2,a,Burundi
+288,Africa,Government of Chad,First Liberation Army,1972,Jul,2308,1,2,a,Chad
+288,Africa,Government of Chad,GUNT,1984,Feb,3239,1,2,a,Chad
+288,Africa,Government of Chad,CDR,1987,Dec,305,2,2,a,Chad
+288,Africa,Government of Chad,"CNR, CSNPD, FNT",1994,Mar,2129,1,2,a,Chad
+288,Africa,Government of Chad,MDJT,2003,Oct,2236,1,2,a,Chad
+288,Africa,Government of Chad,FPRN,2010,Dec,1592,1,2,a,Chad
+288,Africa,Government of Chad,CCMSR,2018,Aug,33,1,2,a,Chad
+288,Africa,Government of Chad,FACT,2021,Feb,436,1,2,a,Chad
+289,Americas,Government of Colombia,ELN,2016,Dec,18991,1,2,a,Colombia
+289,Americas,Government of Colombia,FARC - Mordisco,2022,Feb,1775,1,2,a,Colombia
+290,Americas,Government of Dominican Republic,Military faction (constitutionalists),1965,Apr,129,1,2,a,Dominican Republic
+291,Asia,Government of Indonesia,OPM,1965,Jul,156,1,1,a,Indonesia
+291,Asia,Government of Indonesia,OPM,1969,Dec,731,1,1,a,Indonesia
+291,Asia,Government of Indonesia,OPM,1978,Dec,730,2,1,a,Indonesia
+291,Asia,Government of Indonesia,OPM,1981,Dec,0,2,1,a,Indonesia
+291,Asia,Government of Indonesia,OPM,1984,Dec,0,1,1,a,Indonesia
+291,Asia,Government of Indonesia,OPM,2018,Dec,0,1,1,a,Indonesia
+291,Asia,Government of Indonesia,OPM,2022,Apr,612,1,1,a,Indonesia
+292,Americas,Government of Peru,"ELN, MIR",1965,Aug,150,1,2,a,Peru
+292,Americas,Government of Peru,Sendero Luminoso,1999,Aug,6305,1,2,a,Peru
+292,Americas,Government of Peru,Sendero Luminoso,2010,Nov,1142,1,2,a,Peru
+293,Asia,Government of South Vietnam,Government of Vietnam (North Vietnam),1975,Dec,3407,2,1,a,Vietnam
+294,Asia,Government of Cambodia (Kampuchea),Government of Thailand,1978,Dec,365,1,1,a,Cambodia
+294,Asia,Government of Cambodia (Kampuchea),Government of Thailand,1978,Dec,365,1,1,b,Thailand
+294,Asia,Government of Cambodia (Kampuchea),Government of Thailand,2011,Apr,4,1,1,a,Cambodia
+294,Asia,Government of Cambodia (Kampuchea),Government of Thailand,2011,Apr,4,1,1,b,Thailand
+295,Africa,Government of Ghana,NLC,1966,Feb,0,1,2,a,Ghana
+295,Africa,Government of Ghana,Military faction (forces of Jerry John Rawlings),1981,Dec,0,1,2,a,Ghana
+295,Africa,Government of Ghana,Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo),1983,Jun,0,1,2,a,Ghana
+296,Asia,Government of India,MNF,1968,Sep,852,1,1,a,India
+297,Africa,Government of Nigeria,Military faction (forces of Patrick Nzeogwu),1966,Jan,195,1,2,a,Nigeria
+297,Africa,Government of Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2009,Jul,4,1,2,a,Nigeria
+297,Africa,Government of Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2022,Mar,4323,1,2,a,Nigeria
+298,Africa,Government of South Africa,SWAPO,1989,Dec,8161,1,1,a,South Africa
+299,Middle East,Government of Syria,Military faction (forces loyal to Nureddin Atassi and Youssef Zeayen),1966,Feb,0,1,2,a,Syria
+299,Middle East,Government of Syria,Muslim Brotherhood,1982,Jun,962,2,2,a,Syria
+299,Middle East,Government of Syria,Syrian insurgents,2022,Aug,4169,1,2,a,Syria
+300,Asia,Government of Cambodia (Kampuchea),KR,1975,May,2878,2,2,a,Cambodia
+300,Asia,Government of Cambodia (Kampuchea),"Forces of Norodom Ranariddh, KR",1998,Dec,7217,1,2,a,Cambodia
+301,Middle East,Government of Israel,Government of Jordan,1967,Jun,5,2,1,a,Israel
+301,Middle East,Government of Israel,Government of Jordan,1967,Jun,5,2,1,b,Jordan
+302,Middle East,Government of Israel,Government of Syria,1967,Jun,5,2,1,a,Israel
+302,Middle East,Government of Israel,Government of Syria,1967,Jun,5,2,1,b,Syria
+302,Middle East,Government of Israel,Government of Syria,1973,Oct,18,2,1,a,Israel
+302,Middle East,Government of Israel,Government of Syria,1973,Oct,18,2,1,b,Syria
+303,Africa,Government of Nigeria,Republic of Biafra,1970,Jul,921,2,1,a,Nigeria
+303,Africa,Government of Nigeria,IPOB,2022,Apr,616,1,1,a,Nigeria
+304,Asia,Government of China,Government of Myanmar (Burma),1969,Feb,306,1,1,a,China
+304,Asia,Government of China,Government of Myanmar (Burma),1969,Feb,306,1,1,b,Myanmar
+305,Multiple,Government of China,Government of Russia (Soviet Union),1969,Mar,304,1,1,a,China
+305,Multiple,Government of China,Government of Russia (Soviet Union),1969,Mar,304,1,1,b,Russia
+306,Americas,Government of El Salvador,Government of Honduras,1969,Jul,15,2,1,a,El Salvador
+306,Americas,Government of El Salvador,Government of Honduras,1969,Jul,15,2,1,b,Honduras
+307,Africa,Government of Guinea,RFDG,2001,Sep,305,1,2,a,Guinea
+308,Asia,Government of Philippines,"MILF, MNLF",1990,Aug,7287,1,1,a,Philippines
+308,Asia,Government of Philippines,ASG,2020,Feb,10165,1,1,a,Philippines
+309,Africa,Government of Sudan,Sudanese Communist Party,1971,Jul,0,1,2,a,Sudan
+309,Africa,Government of Sudan,National Front,1976,Jul,0,1,2,a,Sudan
+309,Africa,Government of Sudan,SLM/A,2018,May,12997,1,2,a,Sudan
+309,Africa,Government of Sudan,SLM/A,2022,Jun,943,1,2,a,Sudan
+310,Africa,Government of Madagascar,Monima,1971,Apr,0,1,2,a,Madagascar
+311,Africa,Government of Morocco,Military faction (forces of Mohamed Madbouh),1971,Jul,1,1,2,a,Morocco
+312,Asia,Government of Pakistan,Mukti Bahini,1971,Mar,265,2,1,a,Pakistan
+313,Asia,Government of Sri Lanka,JVP,1971,Apr,40,2,2,a,Sri Lanka
+313,Asia,Government of Sri Lanka,JVP,1990,Feb,375,1,2,a,Sri Lanka
+314,Africa,Government of Uganda,Kikosi Maalum,1972,Jan,600,1,2,a,Uganda
+314,Africa,Government of Uganda,Military faction (forces of Charles Arube),1974,Mar,0,1,2,a,Uganda
+314,Africa,Government of Uganda,UPA,1992,Jan,4948,1,2,a,Uganda
+314,Africa,Government of Uganda,"ADF, LRA",2011,Feb,6464,1,2,a,Uganda
+314,Africa,Government of Uganda,ADF,2019,Jun,2218,1,2,a,Uganda
+315,Europe,Government of United Kingdom,PIRA,1991,Aug,7392,1,1,a,United Kingdom
+315,Europe,Government of United Kingdom,RIRA,1998,Aug,0,1,1,a,United Kingdom
+316,Americas,Government of El Salvador,Military faction (forces of Benjamin Mejia),1972,Mar,0,1,2,a,El Salvador
+316,Americas,Government of El Salvador,FMLN,1991,Sep,4448,1,2,a,El Salvador
+317,Middle East,Government of Oman,PFLO,1975,Dec,2171,1,2,a,Oman
+318,Africa,Government of Zimbabwe (Rhodesia),ZAPU,1968,Sep,483,1,2,a,Zimbabwe
+318,Africa,Government of Zimbabwe (Rhodesia),PF,1979,Apr,2452,2,2,a,Zimbabwe
+319,Americas,Government of Uruguay,MLN/Tupamaros,1972,Apr,245,1,2,a,Uruguay
+320,Middle East,Government of South Yemen,Government of Yemen (North Yemen),1972,Feb,241,1,3,a,Yemen
+320,Middle East,Government of South Yemen,Government of Yemen (North Yemen),1979,Mar,0,1,3,a,Yemen
+321,Americas,Government of Chile,"Military faction (forces of Augusto Pinochet, Toribio Merino and Leigh Guzman)",1973,Sep,0,1,2,a,Chile
+322,Asia,Government of Bangladesh,PCJSS,1991,Feb,6150,1,1,a,Bangladesh
+323,Multiple,Government of Cyprus,Government of Turkey,1974,Jun,57,2,1,a,Cyprus
+323,Multiple,Government of Cyprus,Government of Turkey,1974,Jun,57,2,1,b,Turkey
+324,Middle East,Government of Iran,Government of Iraq,1974,Feb,324,1,3,a,Iran
+324,Middle East,Government of Iran,Government of Iraq,1974,Feb,324,1,3,b,Iraq
+324,Middle East,Government of Iran,Government of Iraq,1988,Sep,2888,2,3,a,Iran
+324,Middle East,Government of Iran,Government of Iraq,1988,Sep,2888,2,3,b,Iraq
+325,Asia,Government of Pakistan,BLF,1977,Dec,917,1,1,a,Pakistan
+325,Asia,Government of Pakistan,BLA,2004,Aug,146,1,1,a,Pakistan
+325,Asia,Government of Pakistan,"BLA, BRA",2009,Mar,1304,1,1,a,Pakistan
+325,Asia,Government of Pakistan,"BLA, UBA",2016,Jul,1937,1,1,a,Pakistan
+325,Asia,Government of Pakistan,BRAS,2022,May,1330,1,1,a,Pakistan
+326,Africa,Government of Eritrea,EIJM - AS,1997,Jun,0,1,2,a,Eritrea
+326,Africa,Government of Eritrea,EIJM - AS,1999,Apr,239,1,2,a,Eritrea
+326,Africa,Government of Eritrea,EIJM - AS,2003,Jul,23,1,2,a,Eritrea
+327,Africa,Government of Angola,UNITA,1995,Nov,7348,1,2,a,Angola
+327,Africa,Government of Angola,UNITA,2002,May,1430,1,2,a,Angola
+328,Asia,Government of Cambodia (Kampuchea),Government of Vietnam (North Vietnam),1977,Dec,731,1,1,a,Cambodia
+328,Asia,Government of Cambodia (Kampuchea),Government of Vietnam (North Vietnam),1977,Dec,731,1,1,b,Vietnam
+329,Africa,Government of Ethiopia,Ogaden Liberation Front,1964,Jan,355,1,1,a,Ethiopia
+329,Africa,Government of Ethiopia,WSLF,1983,Oct,2617,1,1,a,Ethiopia
+329,Africa,Government of Ethiopia,ONLF,1994,Oct,136,1,1,a,Ethiopia
+329,Africa,Government of Ethiopia,"AIAI, ONLF",1996,Aug,144,1,1,a,Ethiopia
+329,Africa,Government of Ethiopia,ONLF,2016,Dec,6575,1,1,a,Ethiopia
+330,Asia,Government of Indonesia,CNRT,1988,Dec,4773,1,1,a,Indonesia
+330,Asia,Government of Indonesia,CNRT,1992,Dec,0,1,1,a,Indonesia
+330,Asia,Government of Indonesia,CNRT,1999,May,844,1,1,a,Indonesia
+331,Africa,Government of Morocco,POLISARIO,1989,Nov,5126,1,1,a,Morocco
+332,Africa,Government of Mozambique,Renamo,1992,Dec,5406,1,2,a,Mozambique
+332,Africa,Government of Mozambique,Renamo,2014,Oct,288,1,2,a,Mozambique
+332,Africa,Government of Mozambique,Renamo,2016,Apr,211,1,2,a,Mozambique
+332,Africa,Government of Mozambique,ASWJ,2019,Jul,367,1,2,a,Mozambique
+333,Asia,Government of Afghanistan,"AFF, NRF",2022,Apr,16319,1,2,a,Afghanistan
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1974,Jan,345,1,1,a,China
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1974,Jan,345,1,1,b,Vietnam
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1981,Dec,1096,1,1,a,China
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1981,Dec,1096,1,1,b,Vietnam
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1984,Dec,366,1,1,a,China
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1984,Dec,366,1,1,b,Vietnam
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1988,Dec,731,1,1,a,China
+334,Asia,Government of China,Government of Vietnam (North Vietnam),1988,Dec,731,1,1,b,Vietnam
+335,Asia,Government of India,TNV,1988,Dec,3147,1,1,a,India
+335,Asia,Government of India,ATTF,1992,Oct,80,1,1,a,India
+335,Asia,Government of India,"ATTF, NLFT",1997,Jun,150,1,1,a,India
+335,Asia,Government of India,NLFT-B,2004,Sep,1920,1,1,a,India
+336,Americas,Government of Nicaragua,FSLN,1979,Oct,647,2,2,a,Nicaragua
+336,Americas,Government of Nicaragua,Contras,1990,Apr,2920,1,2,a,Nicaragua
+337,Africa,Government of Somalia,"SNM, SSDF",1984,Dec,731,1,2,a,Somalia
+337,Africa,Government of Somalia,USC/SNA,1996,Mar,3945,1,2,a,Somalia
+337,Africa,Government of Somalia,SRRC,2002,May,534,1,2,a,Somalia
+337,Africa,Government of Somalia,Al-Shabaab,2022,Oct,5912,2,2,a,Somalia
+338,Middle East,Government of Iran,MEK,1982,Dec,1096,2,2,a,Iran
+338,Middle East,Government of Iran,MEK,1988,Dec,731,1,2,a,Iran
+338,Middle East,Government of Iran,MEK,1991,Apr,0,1,2,a,Iran
+338,Middle East,Government of Iran,MEK,1993,Apr,246,1,2,a,Iran
+338,Middle East,Government of Iran,MEK,1997,Feb,257,1,2,a,Iran
+338,Middle East,Government of Iran,MEK,2001,Nov,661,1,2,a,Iran
+338,Middle East,Government of Iran,PJAK,2011,Aug,2333,1,2,a,Iran
+338,Middle East,Government of Iran,PJAK,2021,Jul,1113,1,2,a,Iran
+339,Middle East,Government of Iran,APCO,1980,May,580,1,1,a,Iran
+340,Middle East,Government of Saudi Arabia,JSM,1979,Nov,14,1,2,a,Saudi Arabia
+341,Africa,Government of Liberia,Military faction (forces of Samuel Doe),1980,Apr,2,1,2,a,Liberia
+341,Africa,Government of Liberia,"INPFL, NPFL",1990,Dec,370,1,2,a,Liberia
+341,Africa,Government of Liberia,"LURD, MODEL",2003,May,1269,2,2,a,Liberia
+342,Europe,Government of Spain,ETA,1982,Oct,1529,1,1,a,Spain
+342,Europe,Government of Spain,ETA,1987,Dec,738,1,1,a,Spain
+342,Europe,Government of Spain,ETA,1991,Jun,168,1,1,a,Spain
+343,Africa,Government of Tunisia,Résistance Armée Tunisienne,1980,Jan,0,1,2,a,Tunisia
+343,Africa,Government of Tunisia,"AQIM, JAK-T",2015,Oct,759,1,2,a,Tunisia
+344,Africa,Government of Gambia,NRC,1981,Jul,6,1,2,a,Gambia
+345,Africa,Government of South Africa,ANC,1983,Aug,876,1,2,a,South Africa
+345,Africa,Government of South Africa,ANC,1988,Jun,1284,1,2,a,South Africa
+346,Multiple,Government of Argentina,Government of United Kingdom,1982,May,43,1,1,a,Argentina
+346,Multiple,Government of Argentina,Government of United Kingdom,1982,May,43,1,1,b,United Kingdom
+347,Asia,Government of India,PLA,1988,Jul,2345,1,1,a,India
+347,Asia,Government of India,PLA,1996,Dec,1084,1,1,a,India
+347,Asia,Government of India,"PLA, UNLF",2000,Dec,720,1,1,a,India
+347,Asia,Government of India,"KCP, PREPAK, UNLF",2009,Jul,2352,1,1,a,India
+348,Africa,Government of Kenya,Military faction (forces of Hezekiah Ochuka),1982,Aug,20,1,2,a,Kenya
+349,Africa,Government of Chad,Government of Nigeria,1983,Apr,191,1,1,a,Chad
+349,Africa,Government of Chad,Government of Nigeria,1983,Apr,191,1,1,b,Nigeria
+350,Americas,Government of Grenada,Government of United States of America,1983,Oct,2,1,2,a,Grenada
+350,Americas,Government of Grenada,Government of United States of America,1983,Oct,2,1,2,b,United States of America
+351,Asia,Government of India,Sikh insurgents,1993,Dec,3646,1,1,a,India
+352,Asia,Government of Sri Lanka,LTTE,2001,Sep,6311,2,1,a,Sri Lanka
+352,Asia,Government of Sri Lanka,LTTE,2003,Jun,56,1,1,a,Sri Lanka
+352,Asia,Government of Sri Lanka,LTTE,2009,Dec,1310,2,1,a,Sri Lanka
+353,Africa,Government of Cameroon,UPC,1961,Jan,700,1,2,a,Cameroon
+353,Africa,Government of Cameroon,Military faction (forces of Ibrahim Saleh),1984,Apr,3,1,2,a,Cameroon
+353,Africa,Government of Cameroon,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2017,Jan,1056,1,2,a,Cameroon
+353,Africa,Government of Cameroon,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2020,Sep,78,1,2,a,Cameroon
+353,Africa,Government of Cameroon,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2022,Aug,149,1,2,a,Cameroon
+354,Middle East,Government of Turkey,PKK,2013,Aug,10436,1,1,a,Turkey
+354,Middle East,Government of Turkey,PKK,2022,Jul,2711,1,1,a,Turkey
+355,Africa,Government of Burkina Faso,Government of Mali,1985,Dec,5,1,1,a,Burkina Faso
+355,Africa,Government of Burkina Faso,Government of Mali,1985,Dec,5,1,1,b,Mali
+356,Asia,Government of Laos,Government of Thailand,1988,Dec,413,1,1,a,Laos
+356,Asia,Government of Laos,Government of Thailand,1988,Dec,413,1,1,b,Thailand
+357,Americas,Government of Suriname,SLA,1987,Oct,80,1,2,a,Suriname
+358,Africa,Government of Togo,MTD,1986,Sep,1,1,2,a,Togo
+358,Africa,Government of Togo,JNIM,2022,Jul,174,1,2,a,Togo
+359,Middle East,Government of South Yemen,YSP - AFI,1986,Jan,7,2,2,a,Yemen
+360,Africa,Government of Burkina Faso,Popular Front,1987,Oct,0,1,2,a,Burkina Faso
+360,Africa,Government of Burkina Faso,JNIM,2022,May,1684,2,2,a,Burkina Faso
+361,Africa,Government of Chad,Government of Libya,1987,Aug,35,2,1,a,Chad
+361,Africa,Government of Chad,Government of Libya,1987,Aug,35,2,1,b,Libya
+362,Africa,Government of Comoros,Presidential guard,1989,Nov,0,1,2,a,Comoros
+363,Africa,Government of Ethiopia,ALF,1976,Jun,550,1,1,a,Ethiopia
+363,Africa,Government of Ethiopia,ARDUF,1996,Dec,0,1,1,a,Ethiopia
+364,Asia,Government of India,Kashmir insurgents,2022,Feb,12010,1,1,a,India
+365,Asia,Government of India,ULFA,1990,Nov,0,1,1,a,India
+365,Asia,Government of India,ULFA,2010,Dec,5768,1,1,a,India
+366,Asia,Government of Indonesia,GAM,1991,Jun,570,1,1,a,Indonesia
+366,Asia,Government of Indonesia,GAM,2005,Jun,2325,1,1,a,Indonesia
+367,Americas,Government of Panama,Military faction (forces of Moisés Giroldi),1989,Oct,0,1,2,a,Panama
+368,Americas,Government of Panama,Government of United States of America,1989,Dec,0,1,2,a,Panama
+368,Americas,Government of Panama,Government of United States of America,1989,Dec,0,1,2,b,United States of America
+369,Asia,Government of Papua New Guinea,BRA,1990,Feb,236,1,1,a,Papua New Guinea
+369,Asia,Government of Papua New Guinea,BRA,1996,Aug,1579,1,1,a,Papua New Guinea
+370,Europe,Government of Romania,"Military faction (forces of Nicolae Ceausescu), NSF",1989,Dec,7,1,2,a,Romania
+371,Middle East,Government of Iraq,Government of Kuwait,1991,Aug,211,2,1,a,Iraq
+371,Middle East,Government of Iraq,Government of Kuwait,1991,Aug,211,2,1,b,Kuwait
+372,Africa,Government of Mali,FPLA,1991,Jul,476,1,1,a,Mali
+372,Africa,Government of Mali,FIAA,1994,Oct,75,1,1,a,Mali
+372,Africa,Government of Mali,ATNMC,2009,Aug,510,1,1,a,Mali
+372,Africa,Government of Mali,CMA,2012,Jan,67,1,1,a,Mali
+372,Africa,Government of Mali,CMA,2015,May,366,1,1,a,Mali
+373,Africa,Government of Niger,CRA,1994,May,133,1,1,a,Niger
+374,Africa,Government of Rwanda,FPR,1994,Oct,1370,2,2,a,Rwanda
+374,Africa,Government of Rwanda,FDLR-FOCA,2002,Jul,2270,1,2,a,Rwanda
+374,Africa,Government of Rwanda,FDLR-FOCA,2012,Feb,1385,1,2,a,Rwanda
+374,Africa,Government of Rwanda,FDLR-FOCA,2016,Mar,231,1,2,a,Rwanda
+374,Africa,Government of Rwanda,"CNRD, FDLR-FOCA, FDLR-RUD",2020,May,585,1,2,a,Rwanda
+375,Africa,Government of Senegal,MFDC,1990,Aug,122,1,1,a,Senegal
+375,Africa,Government of Senegal,MFDC,1993,Sep,441,1,1,a,Senegal
+375,Africa,Government of Senegal,MFDC,1995,Apr,218,1,1,a,Senegal
+375,Africa,Government of Senegal,MFDC,1998,Mar,594,1,1,a,Senegal
+375,Africa,Government of Senegal,MFDC,2001,Apr,605,1,1,a,Senegal
+375,Africa,Government of Senegal,MFDC,2003,Jan,264,1,1,a,Senegal
+375,Africa,Government of Senegal,MFDC,2011,Dec,10,1,1,a,Senegal
+376,Europe,Government of Russia (Soviet Union),Republic of Armenia,1991,Aug,477,1,1,a,Russia
+377,Europe,Government of Russia (Soviet Union),APF,1990,Jan,4,1,1,a,Russia
+378,Americas,Government of Trinidad and Tobago,Jamaat al-Muslimeen,1990,Aug,0,1,2,a,Trinidad and Tobago
+379,Africa,Government of Djibouti,FRUD,1994,Nov,842,1,2,a,Djibouti
+379,Africa,Government of Djibouti,FRUD-C,1999,Jul,38,1,2,a,Djibouti
+380,Europe,Government of Georgia,Zviadists,1993,Dec,689,1,2,a,Georgia
+381,Americas,Government of Haiti,Military faction (forces of Himmler Rebu and Guy Francois),1989,Apr,0,1,2,a,Haiti
+381,Americas,Government of Haiti,Military faction (forces of Raol Cédras),1991,Oct,0,1,2,a,Haiti
+381,Americas,Government of Haiti,"FLRN, OP Lavalas",2004,Feb,285,1,2,a,Haiti
+382,Africa,Government of Sierra Leone,RUF,2001,Apr,3916,1,2,a,Sierra Leone
+383,Middle East,Government of Turkey,DHKP-C,1993,Jul,868,1,2,a,Turkey
+383,Middle East,Government of Turkey,TKP-ML,2000,Apr,231,1,2,a,Turkey
+383,Middle East,Government of Turkey,MKP,2005,Jun,122,1,2,a,Turkey
+383,Middle East,Government of Turkey,"TAK, Yurtta Sulh Konseyi",2016,Feb,304,1,2,a,Turkey
+384,Europe,Government of Serbia (Yugoslavia),Republic of Slovenia,1991,Jun,5,1,1,a,Serbia
+385,Europe,Government of Serbia (Yugoslavia),Republic of Croatia,1992,Jul,254,1,1,a,Serbia
+386,Africa,Government of Algeria,AQIM,2018,Dec,9842,1,2,a,Algeria
+386,Africa,Government of Algeria,AQIM,2020,Dec,1,1,2,a,Algeria
+387,Africa,Government of Angola,FLEC-FAC,1992,Dec,366,1,1,a,Angola
+387,Africa,Government of Angola,FLEC-FAC,1998,Dec,1461,1,1,a,Angola
+387,Africa,Government of Angola,FLEC-FAC,2004,Nov,780,1,1,a,Angola
+387,Africa,Government of Angola,FLEC-FAC,2007,Dec,0,1,1,a,Angola
+387,Africa,Government of Angola,FLEC-FAC,2009,Dec,0,1,1,a,Angola
+387,Africa,Government of Angola,FLEC-FAC-TN,2017,Dec,365,1,1,a,Angola
+387,Africa,Government of Angola,FLEC-FAC-TN,2020,Dec,366,1,1,a,Angola
+387,Africa,Government of Angola,FLEC-FAC-TN,2022,Dec,0,1,1,a,Angola
+388,Europe,Government of Azerbaijan,Republic of Artsakh,1994,Dec,928,2,1,a,Azerbaijan
+388,Europe,Government of Azerbaijan,Republic of Artsakh,1998,Apr,620,1,1,a,Azerbaijan
+388,Europe,Government of Azerbaijan,Republic of Artsakh,2005,Dec,0,1,1,a,Azerbaijan
+388,Europe,Government of Azerbaijan,Republic of Artsakh,2008,Dec,0,1,1,a,Azerbaijan
+388,Europe,Government of Azerbaijan,Republic of Artsakh,2012,Sep,0,1,1,a,Azerbaijan
+388,Europe,Government of Azerbaijan,Republic of Artsakh,2017,Aug,1231,1,1,a,Azerbaijan
+388,Europe,Government of Azerbaijan,Republic of Artsakh,2022,Jul,898,1,1,a,Azerbaijan
+389,Europe,Government of Bosnia-Herzegovina,"Serbian irregulars, Serbian Republic of Bosnia-Herzegovina",1995,Apr,1326,2,1,a,Bosnia-Herzegovina
+390,Europe,Government of Croatia,Serbian Republic of Krajina,1995,Apr,1231,2,1,a,Croatia
+391,Middle East,Government of Egypt,al-Gama'a al-Islamiyya,1998,Mar,2063,1,2,a,Egypt
+391,Middle East,Government of Egypt,Ansar Bayt al-Maqdis,2014,Apr,183,1,2,a,Egypt
+391,Middle East,Government of Egypt,Harakit Sawa'id Misr,2019,Jul,802,1,2,a,Egypt
+392,Europe,Government of Georgia,Republic of Abkhazia,1993,Aug,469,2,1,a,Georgia
+393,Europe,Government of Georgia,Republic of South Ossetia,1992,Jun,67,1,1,a,Georgia
+393,Europe,Government of Georgia,Republic of South Ossetia,2004,Aug,54,1,1,a,Georgia
+393,Europe,Government of Georgia,Republic of South Ossetia,2008,Aug,89,1,1,a,Georgia
+394,Europe,Government of Moldova,PMR,1992,Mar,136,1,1,a,Moldova
+395,Asia,Government of Tajikistan,"Forces of Khudoberdiyev, UTO",1998,May,2381,1,2,a,Tajikistan
+395,Asia,Government of Tajikistan,Forces of Mullo Abdullo,2000,Sep,0,1,2,a,Tajikistan
+395,Asia,Government of Tajikistan,IMU,2011,Sep,319,1,2,a,Tajikistan
+396,Europe,Government of Azerbaijan,Military faction (forces of Suret Husseinov),1993,Jun,9,1,2,a,Azerbaijan
+396,Europe,Government of Azerbaijan,OPON Forces,1995,Mar,0,1,2,a,Azerbaijan
+397,Europe,Government of Bosnia-Herzegovina,Autonomous Province of Western Bosnia,1995,Oct,663,1,1,a,Bosnia-Herzegovina
+398,Europe,Government of Bosnia-Herzegovina,"Croatian irregulars, Croatian Republic of Bosnia-Herzegovina",1994,Jul,603,1,1,a,Bosnia-Herzegovina
+399,Europe,Government of Russia (Soviet Union),Parliamentary Forces,1993,Oct,2,1,2,a,Russia
+400,Americas,Government of Mexico,EZLN,1994,Jan,53,1,2,a,Mexico
+400,Americas,Government of Mexico,EPR,1996,Aug,123,1,2,a,Mexico
+401,Europe,Government of Russia (Soviet Union),Chechen Republic of Ichkeria,1996,Nov,713,2,1,a,Russia
+401,Europe,Government of Russia (Soviet Union),Chechen Republic of Ichkeria,2007,Aug,2978,1,1,a,Russia
+402,Middle East,Government of Yemen (North Yemen),Democratic Republic of Yemen,1994,Apr,67,2,1,a,Yemen
+403,Americas,Government of Ecuador,Government of Peru,1995,Jan,334,1,1,a,Ecuador
+403,Americas,Government of Ecuador,Government of Peru,1995,Jan,334,1,1,b,Peru
+404,Asia,Government of Pakistan,MQM,1990,Feb,0,1,2,a,Pakistan
+404,Asia,Government of Pakistan,MQM,1996,May,855,1,2,a,Pakistan
+404,Asia,Government of Pakistan,TTP,2022,Jul,5648,1,2,a,Pakistan
+405,Africa,Government of Cameroon,Government of Nigeria,1996,May,0,1,1,a,Cameroon
+405,Africa,Government of Cameroon,Government of Nigeria,1996,May,0,1,1,b,Nigeria
+406,Africa,Government of Niger,FDR,1995,Jul,0,1,1,a,Niger
+407,Africa,Government of Comoros,MPA/Republic of Anjouan,1997,Sep,0,1,1,a,Comoros
+408,Africa,Government of Congo,Ninjas,1993,Nov,46,1,2,a,Congo
+408,Africa,Government of Congo,"Cocoyes, Ntsiloulous",1999,Jun,913,1,2,a,Congo
+408,Africa,Government of Congo,Ntsiloulous,2002,Apr,265,1,2,a,Congo
+408,Africa,Government of Congo,Ntsiloulous,2016,Apr,249,1,2,a,Congo
+409,Africa,Government of Eritrea,Government of Ethiopia,2000,May,749,2,1,a,Eritrea
+409,Africa,Government of Eritrea,Government of Ethiopia,2000,May,749,2,1,b,Ethiopia
+409,Africa,Government of Eritrea,Government of Ethiopia,2016,Jun,0,1,1,a,Eritrea
+409,Africa,Government of Eritrea,Government of Ethiopia,2016,Jun,0,1,1,b,Ethiopia
+410,Africa,Government of Guinea-Bissau,"Military Junta for the Consolidation of Democracy, Peace and Justice",1999,Jun,334,1,2,a,Guinea-Bissau
+411,Africa,Government of Lesotho,Military faction (Lesotho),1998,Sep,6,1,2,a,Lesotho
+412,Europe,Government of Serbia (Yugoslavia),UCK,1999,Mar,625,2,1,a,Serbia
+413,Africa,Government of Ethiopia,OLF,1978,Dec,365,1,1,a,Ethiopia
+413,Africa,Government of Ethiopia,OLF,1981,Dec,365,2,1,a,Ethiopia
+413,Africa,Government of Ethiopia,OLF,1992,Jul,3257,1,1,a,Ethiopia
+413,Africa,Government of Ethiopia,OLF,1995,Dec,365,1,1,a,Ethiopia
+413,Africa,Government of Ethiopia,OLF,2013,Dec,5479,1,1,a,Ethiopia
+413,Africa,Government of Ethiopia,OLF,2016,Dec,366,1,1,a,Ethiopia
+413,Africa,Government of Ethiopia,OLA,2022,Oct,1182,1,1,a,Ethiopia
+414,Europe,Government of Russia (Soviet Union),Wahhabi movement of the Buinaksk district,1999,Sep,7,1,1,a,Russia
+415,Asia,Government of Uzbekistan,IMU,2000,Mar,551,1,2,a,Uzbekistan
+415,Asia,Government of Uzbekistan,JIG,2004,Mar,122,1,2,a,Uzbekistan
+416,Africa,Government of Central African Republic,Forces of Francois Bozize,2002,Jun,566,1,2,a,Central African Republic
+416,Africa,Government of Central African Republic,Seleka,2006,Nov,3,1,2,a,Central African Republic
+416,Africa,Government of Central African Republic,anti-Balaka,2014,Nov,1784,1,2,a,Central African Republic
+416,Africa,Government of Central African Republic,CPC,2022,Nov,1861,1,2,a,Central African Republic
+417,Europe,Government of North Macedonia,UCK,2001,May,106,1,2,a,North Macedonia
+418,Americas,Government of United States of America,al-Qaida,2017,Sep,5928,1,2,a,United States of America
+418,Americas,Government of United States of America,al-Qaida,2019,Jul,38,1,2,a,United States of America
+419,Africa,Government of Ivory Coast,FRCI,2004,Sep,781,1,2,a,Ivory Coast
+419,Africa,Government of Ivory Coast,"FDSI-CI, FRCI",2011,Feb,61,1,2,a,Ivory Coast
+420,Multiple,"Government of Australia, Government of United Kingdom, Government of United States of America",Government of Iraq,2003,Mar,36,2,2,a,Australia
+420,Multiple,"Government of Australia, Government of United Kingdom, Government of United States of America",Government of Iraq,2003,Mar,36,2,2,b,Iraq
+420,Multiple,"Government of Australia, Government of United Kingdom, Government of United States of America",Government of Iraq,2003,Mar,36,2,2,c,United Kingdom
+420,Multiple,"Government of Australia, Government of United Kingdom, Government of United States of America",Government of Iraq,2003,Mar,36,2,2,d,United States of America
+421,Asia,Government of India,ABSU,1990,Mar,655,1,1,a,India
+421,Asia,Government of India,NDFB,1994,Jul,1,1,1,a,India
+421,Asia,Government of India,NDFB,1999,Oct,1074,1,1,a,India
+421,Asia,Government of India,NDFB,2004,Aug,1187,1,1,a,India
+421,Asia,Government of India,NDFB - RD,2010,Jun,515,1,1,a,India
+421,Asia,Government of India,NDFB-S,2014,Dec,385,1,1,a,India
+422,Asia,Government of Myanmar (Burma),UWSA,1997,Mar,121,1,1,a,Myanmar
+423,Asia,Government of Thailand,Patani insurgents,2022,Oct,7005,1,1,a,Thailand
+424,Africa,Government of Nigeria,Ahlul Sunnah Jamaa,2004,Jan,276,1,1,a,Nigeria
+425,Africa,Government of Nigeria,NDPVF,2004,Jun,108,1,1,a,Nigeria
+426,Middle East,Government of Israel,Hezbollah,1999,Jul,3460,1,1,a,Israel
+426,Middle East,Government of Israel,Hezbollah,2006,Jul,41,1,1,a,Israel
+427,Africa,Government of Tanzania,Government of Uganda,1978,Nov,1,1,1,a,Tanzania
+427,Africa,Government of Tanzania,Government of Uganda,1978,Nov,1,1,1,b,Uganda
+428,Africa,Government of Mauritania,POLISARIO,1978,Dec,1108,1,1,a,Mauritania
+429,Africa,Government of DR Congo (Zaire),BDK,2008,Feb,424,1,1,a,DR Congo
+429,Africa,Government of DR Congo (Zaire),BDK,2017,Aug,24,1,1,a,DR Congo
+429,Africa,Government of DR Congo (Zaire),BDK,2020,Apr,2,1,1,a,DR Congo
+430,Africa,Government of Niger,FLAA,1992,Dec,353,1,2,a,Niger
+430,Africa,Government of Niger,UFRA,1997,Oct,40,1,2,a,Niger
+430,Africa,Government of Niger,MNJ,2008,Apr,566,1,2,a,Niger
+430,Africa,Government of Niger,JNIM,2022,Dec,387,1,2,a,Niger
+431,Multiple,Government of Afghanistan,Government of Russia (Soviet Union),1979,Dec,1,1,2,a,Afghanistan
+431,Multiple,Government of Afghanistan,Government of Russia (Soviet Union),1979,Dec,1,1,2,b,Russia
+432,Europe,Government of Russia (Soviet Union),Forces of the Caucasus Emirate,2015,Nov,2884,1,1,a,Russia
+434,Asia,Government of India,PULF,2008,Dec,18,1,1,a,India
+435,Africa,Government of Djibouti,Government of Eritrea,2008,Jun,0,1,1,a,Djibouti
+435,Africa,Government of Djibouti,Government of Eritrea,2008,Jun,0,1,1,b,Eritrea
+436,Africa,Government of Ethiopia,SALF,1980,Dec,1096,1,1,a,Ethiopia
+437,Africa,Government of Ethiopia,SLM,1981,Mar,0,2,1,a,Ethiopia
+437,Africa,Government of Ethiopia,SLM,1983,Mar,290,1,1,a,Ethiopia
+439,Asia,Government of Myanmar (Burma),MNDAA,2009,Aug,124,1,1,a,Myanmar
+439,Asia,Government of Myanmar (Burma),MNDAA,2015,Dec,362,1,1,a,Myanmar
+439,Asia,Government of Myanmar (Burma),MNDAA,2017,Mar,6,1,1,a,Myanmar
+439,Asia,Government of Myanmar (Burma),MNDAA,2021,Aug,120,1,1,a,Myanmar
+440,Asia,Government of Myanmar (Burma),LNUP,1982,Feb,3593,1,1,a,Myanmar
+442,Africa,Government of Mauritania,AQIM,2010,Sep,0,1,2,a,Mauritania
