@@ -5,7 +5,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/sste0032/Visualisation_2/main/Data/conflicts.csv"
   },
-  "mark": "area",
+  "mark": "line",
   "encoding": {
     "x": {"timeUnit": "year", "field": "year", "axis": {"format": "%Y"}},
     "y": {
