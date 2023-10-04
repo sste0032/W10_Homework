@@ -3,17 +3,15 @@
   "width": 300,
   "height": 200,
   "data": {
-    "url": "https://raw.githubusercontent.com/sste0032/Visualisation_2/main/Data/conflicts.csv"
+    "url": "https://raw.githubusercontent.com/sste0032/W10_Homework/main/data/year_data.csv"
   },
-  "mark": "line",
+  "mark": "area",
   "encoding": {
-    "x": {"timeUnit": "year", "field": "year", "axis": {"format": "%Y"}},
+    "x": {"timeUnit": "year", "field": "year", "axis": {"format": "%Y"},
+    "title": "Year"},
     "y": {
-      "aggregate": "distinct",
-      "field": "conflict_id",
-      "type": "quantitative",
-      "title": "Number of Conflicts"
-    },
+      "field": "no_conflicts",
+      "type": "quantitative"},
     "color": {"field": "region"}
   },
   "config": {}
