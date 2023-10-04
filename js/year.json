@@ -5,14 +5,70 @@
   "data": {
     "url": "https://raw.githubusercontent.com/sste0032/W10_Homework/main/data/year_data.csv"
   },
+  "params": [
+    {
+      "name": "region_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Africa",
+          "Americas",
+          "Asia",
+          "Europe",
+          "Middle East"
+        ],
+        "labels": [
+          "Show All Regions",
+          "Africa",
+          "Americas",
+          "Asia",
+          "Europe",
+          "Middle East"
+        ],
+        "name": "Region Selection:"
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "region_selection == null || datum.region == region_selection"}
+  ],
   "mark": "area",
   "encoding": {
     "x": {"timeUnit": "year", "field": "year", "axis": {"format": "%Y"},
     "title": "Year"},
     "y": {
       "field": "no_conflicts",
-      "type": "quantitative"},
-    "color": {"field": "region"}
+      "type": "quantitative",
+      "title": "Number of Conflicts"},
+    "color": {
+      "field": "region",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Africa",
+          "Americas",
+          "Asia",
+          "Europe",
+          "Middle East",
+          "Multiple"
+        ],
+        "range": [
+          "#1f78b4",
+          "#33a02c",
+          "#66c2a5",
+          "#b2df8a",
+          "#1b9e77",
+          "#80b1d3"
+        ]
+      },
+      "legend": {"title": "Region"}
+    },
+    "tooltip": [
+      {"field": "year", "type": "temporal", "format": "%Y", "title": "Year"},
+      {"field": "region", "type": "nominal", "title": "Region"},
+      {"field": "no_conflicts", "type": "quantitative", "title": "Number of Conflicts"}
+    ]
   },
   "config": {}
 }
