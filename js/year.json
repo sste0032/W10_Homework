@@ -27,7 +27,7 @@
           "Europe",
           "Middle East"
         ],
-        "name": "Region Selection: "
+        "name": "Region Filter:"
       }
     }
   ],
@@ -126,6 +126,68 @@
         "aggregate": {"argmax": "total_conflicts"}}
       ]
     }   
+  },{
+    "transform": [
+      {
+        "joinaggregate": [
+          {
+            "op": "sum",
+            "field": "no_conflicts",
+            "as": "total_conflicts"
+          }
+        ],
+        "groupby": [
+          "year"
+        ]
+      }
+    ],
+    "mark": {
+      "type": "rule",
+      "strokeDash": [4,4]
+    },
+    "encoding": {
+      "y": {
+        "aggregate": "mean",
+        "field": "total_conflicts"
+      },
+      "size": {"value": 2},
+      "color": {
+        "value": "darkgreen"
+      }
+    }
+  },{
+    "transform": [
+      {
+        "joinaggregate": [
+          {
+            "op": "sum",
+            "field": "no_conflicts",
+            "as": "total_conflicts"
+          }
+        ],
+        "groupby": [
+          "year"
+        ]
+      }
+    ],
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": 253
+    },
+    "encoding": {
+      "y":{
+        "aggregate": "mean",
+        "field": "total_conflicts"
+      },
+      "text": {
+        "value": "Avg. Total Conflicts"
+      },
+      "color": {
+        "value": "darkgreen"
+      }
+    }
   }],
   "config": {
   }
