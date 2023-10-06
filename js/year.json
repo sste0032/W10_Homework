@@ -115,7 +115,7 @@
         "aggregate": {"argmax": "total_conflicts"}
       },
       "color": {
-        "value": "darkorange"
+        "value": "#B7410E"
       },
       "tooltip": [
         {"field": "max_conflicts", "type": "quantitative", "title": "Maximum Total Conflicts"},
@@ -126,6 +126,54 @@
         "aggregate": {"argmax": "total_conflicts"}}
       ]
     }   
+  },{
+    "transform": [
+      {
+        "joinaggregate": [
+          {
+            "op": "sum",
+            "field": "no_conflicts",
+            "as": "total_conflicts"
+          }
+        ],
+        "groupby": [
+          "year"
+        ]
+      },
+      {
+        "joinaggregate": [
+          {
+            "op": "max",
+            "field": "total_conflicts",
+            "as": "max_conflicts"
+          }
+        ]
+      }
+    ],
+    "mark": {
+      "type": "text",
+      "align": "right",
+      "baseline": "middle",
+      "dx": -5,
+      "dy": 2
+    },
+    "encoding": {
+      "y": {
+        "field": "max_conflicts", 
+        "type": "quantitative"
+      },
+      "x": {
+        "field": "year",
+        "type": "temporal",
+        "aggregate": {"argmax": "total_conflicts"}
+      },
+      "text": {
+        "value": "Max. Total Conflicts"
+      },
+      "color": {
+        "value": "#B7410E"
+      }
+    }
   },{
     "transform": [
       {
@@ -153,7 +201,14 @@
       "size": {"value": 2},
       "color": {
         "value": "darkgreen"
-      }
+      },
+      "tooltip": [
+        {"field": "total_conflicts", 
+        "type": "quantitative",
+        "format": ".2f",
+        "title": "Average Total Conflicts",
+        "aggregate": "mean"}
+      ]
     }
   },{
     "transform": [
